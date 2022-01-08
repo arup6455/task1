@@ -1,0 +1,817 @@
+body{
+  position: relative;
+width: 1800px;
+height: 8980px;
+background: #FFFFFF;
+}
+.vector{
+  position: absolute;
+left: -1%;
+right: 50.44%;
+top: 0.8%;
+bottom: 33.04%;
+
+background: linear-gradient(66.53deg, #0059D4 -4.12%, #0370DD 18.5%, #0AABF5 65.74%, #0DC3FF 83.26%);
+}
+.heading{
+  word-spacing: 20px;
+  position: absolute;
+width: 529px;
+height: 26px;
+left: 239px;
+top: 49px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height */
+color: #000000
+}
+h1{
+  position: absolute;
+width: 567px;
+height: 330px;
+left: 235px;
+top: 100px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 110px;
+/* or 115% */
+
+
+color: #000000;
+
+}
+.bio{
+  position: absolute;
+height: 84px;
+left: 0%;
+margin-left: 70px;
+top: 550px;
+width: 30%;
+
+/* Body Text 1 */
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 42px;
+/* or 175% */
+
+
+color: #000000;
+}
+.bio2{
+  position: absolute;
+width: 284px;
+height: 24px;
+left: 267px;
+top: 775px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+text-align: center;
+
+color: #040404;
+
+}
+.bio3{
+  position: absolute;
+height: 23px;
+left: 0%;
+margin-left:200px;
+top:850px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #979797;
+
+}
+.pic1{
+  position: absolute;
+width: 500.72px;
+height: 630.85px;
+left: 1098.29px;
+top: 207px;
+
+background: #FBD2D2;
+border-radius: 20px;
+transform: rotate(4.3deg);
+}
+.mark{
+  position: absolute;
+height: 34px;
+left: 15.94%;
+right: 68.89%;
+top: calc(50% - 34px/2 - 3243px);
+
+/* Gordita Heading 6 */
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 34px;
+
+color: #000000;
+}
+.cont1{
+  position: absolute;
+left: 15.94%;
+right: 67.11%;
+top: 14.38%;
+bottom: 84.81%;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 33px;
+/* or 183% */
+
+
+color: #000000;
+}
+.dev{
+  position: absolute;
+height: 34px;
+left: 40.11%;
+right: 43.59%;
+top: calc(50% - 34px/2 - 3243px);
+
+/* Gordita Heading 6 */
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 34px;
+
+color: #000000;
+}
+.cont2{
+  position: absolute;
+left: 40.11%;
+right: 40.11%;
+top: 14.37%;
+bottom: 84.11%;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 33px;
+/* or 183% */
+
+
+color: #000000;
+}
+.create{
+  position: absolute;
+height: 34px;
+left: 67.11%;
+right: 16.59%;
+top: calc(50% - 34px/2 - 3243px);
+
+/* Gordita Heading 6 */
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 34px;
+
+color: #000000;
+
+}
+.cont3{
+  position: absolute;
+left: 67.11%;
+right: 13.72%;
+top: 14.38%;
+bottom: 84.4%;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 33px;
+/* or 183% */
+
+
+color: #000000;
+
+}
+.edit1{
+  position: absolute;
+width: 166px;
+height: 29.19px;
+left: 239px;
+top: 1606px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 30px;
+/* identical to box height, or 200% */
+
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: rgba(0, 0, 0, 0.27);
+}
+.cont4{
+  position: absolute;
+width: 602px;
+height: 176.08px;
+left: 232px;
+top: calc(50% - 176.08px/2 - 2741.48px);
+
+font-family: Gordita;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 88px;
+/* or 122% */
+
+letter-spacing: -0.01em;
+
+color: #090D26;
+}
+.edit2{
+  position: absolute;
+left: 57%;
+right: 13.89%;
+top: 18.46%;
+bottom: 79.72%;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 56px;
+/* or 156% */
+
+letter-spacing: -1px;
+
+color: #070707;
+}
+.expert{
+  position: absolute;
+height: 34px;
+right: 0%;
+left: 52.9%;
+top: 2000px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 34px;
+
+color: #000000;
+}
+.secure{
+  position: absolute;
+height: 34px;
+right: 0.22%;
+left: 53.93%;
+top: 2100px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 34px;
+
+color: #000000;
+
+}
+.cont5{
+  position: absolute;
+right:0.6%;
+left: 54%;
+top: 2200px;
+bottom: -9.5%;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 16px;
+/* or 180% */
+
+
+color: #000000;
+}
+.big{
+  position: absolute;
+height: 34px;
+right:0.6%;
+left: 54%;
+top: 2300px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 34px;
+
+color: #000000;
+}
+.life{
+  position: absolute;
+height: 59px;
+left: 4%;
+right: 0.3%;
+top:2400px;
+}
+.block{
+  position: absolute;
+width: 380.73px;
+height: 59.97px;
+left: 248.4px;
+top: 2166.95px;
+
+/* Dark */
+
+background: linear-gradient(154.02deg, #7E0FD6 -30.24%, #0CBCFC 115.7%);
+
+}
+.ai{
+  position: absolute;
+width: 114.27px;
+height: 92.78px;
+left: 248.4px;
+top: 2285.75px;
+
+/* Dark */
+
+background: linear-gradient(154.02deg, #7E0FD6 -30.24%, #0CBCFC 115.7%);
+
+}
+.iot{
+  position: absolute;
+width: 112.58px;
+height: 52.05px;
+left: 516.55px;
+top: 2326.48px;
+
+/* Dark */
+
+background: linear-gradient(154.02deg, #7E0FD6 -30.24%, #0CBCFC 115.7%);
+
+}
+.hell{
+  position: absolute;
+height: 59px;
+left: 6%;
+right: 5%;
+top:2550px;
+}
+.life2{
+  position: absolute;
+height: 59px;
+left: 30%;
+right: 0.3%;
+top:2400px;
+}
+.hell2{
+  position: absolute;
+left: 30%;
+right: 45%;
+top: 2550px;;
+bottom: 0%;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #000000;
+}
+.life3{
+  position: absolute;
+left: 50%;
+right: 0%;
+top: 2470px;
+bottom: 43.25%;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 40px;
+/* or 67% */
+
+text-align: center;
+
+color: #000000;
+
+}
+.hell3{
+  position: absolute;
+left: 30%;
+right:0%;
+top: 2550px;;
+bottom: 0%;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #000000;
+}
+.success{
+  position: absolute;
+width: 479px;
+height: 142px;
+left: 230px;
+top: calc(50% - 142px/2 - 1356px);
+
+/* Gordita Heading 1 */
+
+font-family: Gordita;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 91px;
+/* or 126% */
+
+
+color: #000000;
+}
+.rect{
+  position: absolute;
+width: 74px;
+height: 74px;
+left: 1480px;
+top: 3138px;
+
+background: #000000;
+border-radius: 45px;
+}
+.reason{
+  position: absolute;
+width: 590px;
+height: 167px;
+left: 235px;
+top: calc(50% - 167px/2 - 35.5px);
+
+font-family: Gordita;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 90px;
+/* or 125% */
+
+letter-spacing: -1px;
+
+color: #090D26;
+}
+.info{
+  position: absolute;
+width: 525px;
+height: 87px;
+left: 235px;
+top: 4584px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 35px;
+/* or 175% */
+
+
+color: #292929;
+}
+.info2{
+  position: absolute;
+left: 14.83%;
+right: 58.33%;
+top: 52.29%;
+bottom: 46.97%;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 33px;
+/* or 183% */
+
+
+color: #474747;
+}
+.info3{
+  position: absolute;
+left: 14.83%;
+right: 58.33%;
+top: 53.32%;
+bottom: 46.33%;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height, or 178% */
+
+
+color: #474747;
+}
+.info4{
+  position: absolute;
+left: 15.06%;
+right: 58.5%;
+top: 54.24%;
+bottom: 45.4%;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+/* identical to box height, or 178% */
+
+
+color: #474747;
+}
+.second{
+  position: absolute;
+width: 900px;
+height: 926px;
+left: 1800px;
+top: 4121px;
+
+background: url(mixed-race-lady-dress-sitting-studio-with-crossed-legs-posing-smiling-removebg-preview.png);
+border-radius: 0px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+.team{
+  position: absolute;
+width: 566px;
+height: 168px;
+left: 235px;
+top: 5272px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 84px;
+/* or 117% */
+
+
+color: #141518;
+
+}
+.proloy{
+  position: absolute;
+left: 4%;
+right: -2.56%;
+top: 5500px;
+bottom: 23.29%;
+
+background: #A61313;
+
+}
+.manab{
+  position: absolute;
+left: 30%;
+right: -2.56%;
+top: 5500px;
+bottom: 23.29%;
+
+background: #D8D8D8;
+}
+.bitu{
+  position: absolute;
+left: 60%;
+right:-2.56%;
+top: 5500px;
+bottom: 23.29%;
+
+background: #D8D8D8;
+}
+.about{
+  position: absolute;
+height: 95px;
+left: 0%;
+right: 70%;
+top: 5900px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 31px;
+/* or 129% */
+
+text-align: center;
+
+color: #000000;
+
+}
+.about2{
+  position: absolute;
+height: 95px;
+left: 0%;
+right: 20%;
+top: 5900px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 31px;
+/* or 129% */
+
+text-align: center;
+
+color: #000000;
+}
+.about3{
+  position: absolute;
+height: 95px;
+left: 40%;
+right: 0%;
+top: 5900px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 31px;
+/* or 129% */
+
+text-align: center;
+
+color: #000000;
+}
+.person{
+  position: absolute;
+width: 439.7px;
+height: 519.31px;
+left: 256px;
+top: 6323.42px;
+
+/* primary */
+
+background: linear-gradient(156.86deg, #0F64D6 -21.76%, #0CBCFC 107.41%);
+mix-blend-mode: multiply;
+opacity: 0.3;
+transform: rotate(-8.63deg);
+}
+.say{
+  position: absolute;
+width: 607px;
+height: 341px;
+left: 937.68px;
+top: 6343px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 65px;
+/* or 181% */
+
+
+color: #000000;
+
+}
+.partner{
+  position: absolute;
+left: 10%;
+right: 0.11%;
+top: 6900px;
+
+/* Gordita Heading 1 */
+
+font-family: Gordita;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 91px;
+/* or 126% */
+
+
+color: #141518;
+}
+.cloud{
+  position: absolute;
+width: 157px;
+height: 23px;
+left: 234px;
+top: 7382px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 23px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #BCBCBC;
+
+}
+.logo2{
+  position: absolute;
+width: 240px;
+height: 120px;
+left: 234px;
+top: 7417px;
+
+background: url(GCPA_Badge_Spec_Master_2x.);
+}
+.logo3{
+  position: absolute;
+width: 229px;
+height: 104px;
+left: 600px;
+top: 7425px;
+
+background: url(0_f4bQdpXZpWXenKq8.png);
+}
+.logo4{
+  position: absolute;
+width: 242px;
+height: 104px;
+left: 955px;
+top: 7425px;
+
+background: url(Technology-Partner-Logo.png);
+}
+.logo5{
+  position: absolute;
+width: 229px;
+height: 57.11px;
+left: 1323px;
+top: 7448px;
+
+background: url(2018-04-09_ibm_cloud-original.png);
+}
+.Blockchain{
+  position: absolute;
+width: 212px;
+height: 23px;
+left: 234px;
+top: 7617px;
+
+font-family: Gordita;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 23px;
+/* identical to box height */
+
+text-transform: uppercase;
+}
+.logo1{
+  position: absolute;
+left: 12.18%;
+right: 1.15%;
+top: 7660px;
+bottom: 6.3%;
+
+background: #FFFFFF;
+}
+.update{
+  position: absolute;
+width: 800px;
+height: 300px;
+left: 1px;
+top: 7866px;
+
+background: #090D26;
+mix-blend-mode: multiply;
+}
